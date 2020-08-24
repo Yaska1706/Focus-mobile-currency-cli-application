@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/Yaska1706/Focus-mobile-currency-cli-application.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaska1706/Focus-mobile-currency-cli-application.git"
+  },
+  
   "bin": {
     "currency-test": "./index.js"
   },
