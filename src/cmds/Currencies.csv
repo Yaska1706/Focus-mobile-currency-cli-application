@@ -1,0 +1,60 @@
+Country,Currency,ISO 4217 Code
+Algeria,Algerian dinar,DZD
+Angola,Angolan kwanza,AOA
+Benin,CFA franc,XOF
+Botswana,Botswana pula,BWP
+Burkina Faso,CFA franc,XOF
+Burundi,Burundi franc,BIF
+Cameroon,CFA franc,XAF
+Cape Verde,Cape Verdean escudo,CVE
+Central African Republic,CFA franc,XAF
+Chad,CFA franc,XAF
+Comoros,CFA franc,KMF
+Republic of the Congo,CFA franc,XAF
+Democratic Republic of the Congo,Congolese franc,CDF
+Djibouti,Djiboutian franc,DJF
+Egypt,Egyptian pound,EGP
+Equatorial Guinea,CFA franc,XAF
+Eritrea,Eritrean nakfa,ERN
+Eswatini,Lilangeni,SZL
+Ethiopia,Ethiopian birr,ETB
+Gabon,CFA franc,XAF
+Gambia,Dalasi,GMD
+Ghana,Ghanaian cedi,GHS
+Guinea,Guinean franc,GNF
+Guinea-Bissau,CFA franc,XOF
+Ivory Coast,CFA franc,XOF
+Kenya,Kenyan shilling,KES
+Lesotho,Lesotho loti,LSL
+Liberia,Liberian dollar,LRD
+Libya,Libyan dinar,LYD
+Madagascar,Malagasy ariary,MGA
+Malawi,Malawian kwacha,MWK
+Mali,CFA franc,XOF
+Mauritania,Ouguiya,MRO
+Mauritius,Mauritian rupee,MUR
+Morocco,Moroccan dirham,MAD
+Mozambique,Mozambican metical,MZN
+Namibia,Namibian dollar,NAD
+Niger,CFA franc,XOF
+Nigeria,Nigerian naira,NGN
+Rwanda,Rwandan franc,RWF
+Sao Tome and Principe,São Tomé and Príncipe dobra,STD
+Senegal,CFA franc,XOF
+Seychelles,Seychellois rupee,SCR
+Sierra Leone,Sierra Leonean leone,SLL
+Somalia,Somali shilling,SOS
+South Africa,South African rand,ZAR
+South Sudan,South Sudanese pound,SSP
+Sudan,Sudanese pound,SDG
+Tanzania,Tanzanian shilling,TZS
+Togo,CFA franc,XOF
+Tunisia,Tunisian dinar,TND
+Uganda,Ugandan shilling,UGX
+Zambia,Zambian kwacha,ZMW
+Zimbabwe,RTGS Dollar,ZBN
+United States of America,US Dollar,USD
+European Union,European Currency Unit,EUR
+United Kingdom,Pound Sterling,GBP
+China,Yuan Renminbi,CNY
+Japan,Yen,JPY
