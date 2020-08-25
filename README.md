@@ -4,17 +4,17 @@ This is a command line application that takes in currency (using ISO 4217 code) 
 
 #installation
 
-For the application to run you need to have npm installed in your computer if not visit https://docs.npmjs.com/downloading-and-installing-node-js-and-npm for instructions
+For the application to run you need to have npm installed in your computer if not visit [npm installation](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm "NPM installation") for instructions
 
 If npm is installed run on the terminal:
 
-npm i currency-test
+`npm i currency-test`
 
 After installation is complete now the application is now ready for use.
 
 Run the following command on your terminal:
 
-currency-test
+`currency-test`
 
 
 
