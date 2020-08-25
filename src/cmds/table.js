@@ -1,7 +1,7 @@
 import Table from 'cli-table3';
 
 module.exports = (args) => {
-    console.log('Table is displayed')
+    
     const request = require('request')
     const csv=require('csvtojson')
     

@@ -23,7 +23,7 @@ module.exports = (args) => {
       
       //function prompts user to enter iso code and verify if it exists
       function check(){
-                const q = ('Enter ISO 4217 Code : ')
+                const q = ('Enter ISO 4217 Code(in caps) : ')
                 prompt(q).then(iso => {
                     csv()
                     .fromStream(request.get('https://focusmobile-interview-materials.s3.eu-west-3.amazonaws.com/Cheap.Stocks.Internationalization.Currencies.csv'))

@@ -5,7 +5,7 @@ const menus = {
     main: `
       currency-test [${chalk.blueBright('command')}] <options>
   
-      ${chalk.greenBright('check')} .............. show if currency iso exists
+      ${chalk.greenBright('check')} .............. show if currency iso exists(ISO should be in caps)
       ${chalk.greenBright('table')} ............... display currency table 
       ${chalk.greenBright('version')} ............ show package version
       ${chalk.greenBright('help')} ............... show help menu for a command`,
