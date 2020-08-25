@@ -8,7 +8,7 @@ For the application to run you need to have npm installed in your computer if no
 
 If npm is installed run on the terminal:
 
-`npm i currency-test`
+`npm i -g currency-test`
 
 After installation is complete now the application is now ready for use.
 
